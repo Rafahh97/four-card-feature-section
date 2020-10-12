@@ -93,11 +93,11 @@ body{
     .top {
         margin-top: 3.45rem;
     }
-    .top-header{
-        font-size: 32px;
+    .top .top-header {
+        font-size: 32px !important;
     }
-    .top-body{
-        font-size: 32px;
+    .top .top-body {
+        font-size: 32px !important;
     }
     .top-footer {
         width: 45%;
